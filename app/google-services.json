@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779945675778",
+    "project_id": "monkhood-e45b2",
+    "storage_bucket": "monkhood-e45b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779945675778:android:3792dd994de1188e156b1b",
+        "android_client_info": {
+          "package_name": "com.ankur.monkhood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779945675778-1s747nt453r1omrsls3cbklgdp524loh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj74TyhQX0jLau_BdedwdNX_cxRDUIFho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779945675778-1s747nt453r1omrsls3cbklgdp524loh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
